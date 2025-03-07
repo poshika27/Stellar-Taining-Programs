@@ -7,28 +7,28 @@ Welcome to the **Stellar Academy Java Training Programs** repository! This colle
 Here's an overview of the programs included:
 
 - **Appleorange.java**: 🍎🍊 Determines the number of apples and oranges that fall within a specific range.
-- **Area.java**: 📀 Calculates the area of different geometric shapes based on user input.
-- **ArrayInitialization.java**: 🫏️ Demonstrates various methods of initializing arrays in Java.
+- **Area.java**: 📐 Calculates the area of different geometric shapes based on user input.
+- **ArrayInitialization.java**: 🧮 Demonstrates various methods of initializing arrays in Java.
 - **CollatzConjecture.java**: 🔄 Implements the Collatz conjecture sequence for a given number.
-- **CountOfNumber.java**: 💢 Counts the occurrences of a specific digit within a number.
+- **CountOfNumber.java**: 🔢 Counts the occurrences of a specific digit within a number.
 - **Datatype.java**: 🗃️ Explores Java's data types and their usage.
 - **EvenNumbers.java**: ➖ Prints all even numbers within a specified range.
 - **FactorsOfNumber.java**: 🔍 Finds all factors of a given number.
-- **Findjan1.java**: 🗓️ Determines the day of the week for January 1st of a given year.
-- **Lucussequence.java**: 👒 Generates the Lucas sequence up to a specified term.
+- **Findjan1.java**: 📅 Determines the day of the week for January 1st of a given year.
+- **Lucussequence.java**: 🔢 Generates the Lucas sequence up to a specified term.
 - **Minvalue.java**: 📉 Finds the minimum value in a given set of numbers.
 - **MultiplicationTable.java**: ✖️ Displays the multiplication table for a given number.
 - **PowerOfNumber.java**: 💪 Calculates the power of a number using both iterative and recursive methods.
-- **PrintNumbers.java**: 🖨 Prints numbers from 1 to N using different looping constructs.
+- **PrintNumbers.java**: 🖨️ Prints numbers from 1 to N using different looping constructs.
 - **RemoveVowel.java**: ✂️ Removes vowels from a given string.
 - **ReverseInteger.java**: 🔄 Reverses the digits of an integer.
 - **ReverseWord.java**: 🔄 Reverses the order of words in a sentence.
 - **Salary.java**: 💼 Computes the salary of an employee based on various parameters.
 - **SmallAndLargeDigit.java**: 🔍 Identifies the smallest and largest digits in a number.
-- **Stringformat.java**: 🗒️ Demonstrates string formatting techniques in Java.
+- **Stringformat.java**: 📝 Demonstrates string formatting techniques in Java.
 - **SubString.java**: 🔍 Extracts a substring from a given string based on user input.
 - **SumOfNaturalNumbers.java**: ➕ Calculates the sum of the first N natural numbers.
-- **Travel.java**: 🎢 Simulates a travel itinerary based on user preferences.
+- **Travel.java**: 🧳 Simulates a travel itinerary based on user preferences.
 
 ## Purpose 🎯
 
