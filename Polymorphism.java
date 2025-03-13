@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Methodoverloading2{
+public class Polymorphism{
     public static int calculate(int num1, int num2) {
         return num1 + num2;
     }
